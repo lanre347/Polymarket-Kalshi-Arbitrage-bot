@@ -67,6 +67,11 @@ source "$HOME/.cargo/env"
 
 ### 2. Set Up Credentials
 
+```
+cargo install dotenvx
+```
+
+
 Create a `.env` file:
 
 ```bash
